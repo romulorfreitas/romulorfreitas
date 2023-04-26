@@ -11,7 +11,7 @@
     <code><a href="https://en.wikipedia.org/wiki/HTML"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" title = "HTML5"/></a></code>
     <code><a href="https://www.css3.com/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" title = "CSS3"/></a></code>
     <code><a href="https://www.javascript.com/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/></a></code>
-    <code><a href="https://react.dev/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="React" title="React"/></a></code>
+    <code><a href="https://react.dev/"><img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" title="React"/></a></code>
     <code><a href="https://redux.js.org/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" title="Redux"/></a></code>
     <code><a href="https://jestjs.io/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" title="Jest"/></a></code>
     <code><a href="https://www.mysql.com/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL"/></a></code>
